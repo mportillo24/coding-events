@@ -1,4 +1,11 @@
 body {
+<<<<<<< HEAD
     font-size: 18px;
     color: purple;
+=======
+  font-size: 14px;
+}
+.error {
+  color: red;
+>>>>>>> 4dbb1153bc14c6eb35b1af01c12de0ddd86d716f
 }
